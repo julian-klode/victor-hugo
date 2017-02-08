@@ -1,4 +1,4 @@
-baseurl = "https://jak-linux.org"
+baseurl = "https://jak.netlify.com"
 title = "Julian Andres Klode"
 languageCode = "en-us"
 disqusShortname = "jak-test-website" # Optional, enable Disqus integration
