@@ -1,0 +1,20 @@
+---
+author: juliank
+comments: true
+date: 2008-05-22 22:23:03+00:00
+link: https://juliank.wordpress.com/2008/05/23/the-future-of-dir2ogg-gstreamer/
+slug: the-future-of-dir2ogg-gstreamer
+title: The future of dir2ogg - gstreamer?
+wordpress_id: 37
+categories:
+- General
+tags:
+- dir2ogg
+- gstreamer
+---
+
+After playing a bit with gst-launch, I found out that it can convert music files and keeps the tags. Therefore, I think it would be great to rewrite dir2ogg using gstreamer (the python bindings).
+
+This version of dir2ogg will be much much smaller, and is really easy to extend. It will also support multiple output formats and does not need to know about the input files (use -i 'SHELL PATTERN' to include other files).
+
+But it will not really replace dir2ogg. The old dir2ogg will still be supported.

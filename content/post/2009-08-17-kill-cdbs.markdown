@@ -1,0 +1,13 @@
+---
+author: juliank
+comments: true
+date: 2009-08-17 21:34:21+00:00
+link: https://juliank.wordpress.com/2009/08/17/kill-cdbs/
+slug: kill-cdbs
+title: kill cdbs
+wordpress_id: 267
+categories:
+- Debian
+---
+
+Let's kill CDBS and help debhelper 7 gain world domination!

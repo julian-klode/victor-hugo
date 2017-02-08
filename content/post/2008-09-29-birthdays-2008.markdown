@@ -1,0 +1,32 @@
+---
+author: juliank
+comments: true
+date: 2008-09-29 11:31:17+00:00
+link: https://juliank.wordpress.com/2008/09/29/birthdays-2008/
+slug: birthdays-2008
+title: '"Birthdays 2008"'
+wordpress_id: 46
+categories:
+- General
+---
+
+The most important birthdays in the FLOSS world this year (where age mod 5 = 0):
+
+
+
+	
+  * **10 years: **Google (September), Open Source Initiative (February)
+
+	
+  * **15 years:** Debian, FreeBSD, NetBSD
+
+	
+  * **25 years:** GNU
+
+	
+  * **35 years:** Ian Murdock (April), Mark Shuttleworth (September)
+
+	
+  * **55 years:** Richard Stallman (March)
+
+
